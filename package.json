@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "http-server -p 3000",
-    "serve:hello-vue": "http-server ./hello-vue -p 3000"
+    "serve:hello-vue": "http-server ./hello-vue -p 3000",
+    "serve:assignment-1": "http-server ./basics-assignment-1 -p 3000"
   },
   "author": "",
   "license": "ISC",
