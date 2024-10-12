@@ -11,7 +11,7 @@ const app = Vue.createApp({
         // },
         resetName() {
             this.name = ''
-        }
+        } 
     }
 })
 
