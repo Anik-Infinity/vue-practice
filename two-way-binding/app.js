@@ -5,10 +5,10 @@ const app = Vue.createApp({
         }
     },
     methods: {
-        // updateName(event) {
-        //     console.log('invoked')
-        //     this.name = event.target.value;
-        // },
+        /*updateName(event) {
+            console.log('invoked')
+            this.name = event.target.value;
+        },*/
         resetName() {
             this.name = ''
         } 
